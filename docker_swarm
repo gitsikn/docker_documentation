@@ -9,3 +9,5 @@ manager bertugas untuk:
 worker bertugas sebnagai docker enggine untuk eksekusi container
 
 manager node = worker node 
+
+peran worker node dapat berubah menjadi manager 
