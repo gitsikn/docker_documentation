@@ -1,3 +1,7 @@
+Referensi:
+
+https://dockerswarm.rocks/
+
 cluster docker enggine disebut swarm
 
 Docker swarm dapat berjalan pada 1 atau banyak node, terdapat 2 jenis node pada docker swarm yaitu manager dan worker.
