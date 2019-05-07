@@ -6,8 +6,8 @@ manager bertugas untuk:
 - menjadwalkan service 
 - memberikan mode swarm HTTP API endpoints
 
-worker bertugas sebnagai docker enggine untuk eksekusi container
+worker bertugas sebagai docker enggine untuk eksekusi container
 
 manager node = worker node 
 
-peran worker node dapat berubah menjadi manager 
+peran worker node dapat berubah menjadi manager node
