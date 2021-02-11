@@ -1,5 +1,7 @@
 loglevel = "ERROR"
 
+# Bagian Frontend, berisi domain yang berhubungan langsung dengan DNS Server
+
 [frontends]
 
   [frontends.frontend1]
@@ -785,6 +787,7 @@ loglevel = "ERROR"
     [frontends.frontend156.routes.test_1]
     rule = "Host:payakumbuhkota.sikn.go.id"	
 	
+#--------------------------------------------------#	
 	
 	
 	
@@ -796,8 +799,7 @@ loglevel = "ERROR"
 	
 	
 	
-	
-	
+# Bagian Backend, merupakan bagian yang berhubungan dengan container pada docker 	
 	
 [backends]
 
